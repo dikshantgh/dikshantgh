@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dikshantgh alias Er. Dikshant Ghimire
--  :school: Undergraduate ( Bachelor of Computer Engineering, NCIT, Nepal)
-- :school: PostGraduate (Masters in Information Engineering and Computer Science, Germany)
+-  :school: Undergraduation ( Bachelor of Computer Engineering, NCIT, Nepal)
+- :school: PostGraduation (Masters in Information Engineering and Computer Science, Germany)
 - :school: Lecturer [BE, BIM, BCA]
 - 👨‍💻 : Python Developer 
 - 👀 I’m interested in programming, music, sports and new technologies.
