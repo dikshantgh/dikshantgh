@@ -4,7 +4,7 @@
 - :school: Lecturer [BE, BIM, BCA]
 - 👨‍💻 : Python Developer 
 - 👀 I’m interested in programming, music, sports and new technologies.
-- 🌱 I’m currently engaged in learning AI and research oriented activities.
+- 🌱 I’m currently practicing AI and engaged in research oriented activities.
 - 💞️ I’m looking forward to collaborate on python and django projects
 - 📫 How to reach me .....simply throguh email: dikshant@hsm.edu.np
 
