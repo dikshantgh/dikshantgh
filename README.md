@@ -2,7 +2,7 @@
 -  :school: Undergraduation ( Bachelor of Computer Engineering, NCIT, Nepal)
 - :school: PostGraduation (Masters in Information Engineering and Computer Science, Germany)
 - :school: Lecturer [BE, BIM, BCA]
-- 👨‍💻 : Python Developer 
+- 👨‍💻  Python Developer 
 - 👀 I’m interested in programming, music, sports and new technologies.
 - 🌱 I’m currently practicing AI and engaged in research oriented activities.
 - 💞️ I’m looking forward to collaborate on python and django projects
