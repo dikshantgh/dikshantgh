@@ -1,14 +1,66 @@
-- 👋 Hi, I’m @dikshantgh alias Er. Dikshant Ghimire
--  :school: Undergraduation ( Bachelor of Computer Engineering, NCIT, Nepal)
-- :school: PostGraduation (Masters in Information Engineering and Computer Science, Germany)
-- :school: Lecturer/Program Coordinator [BE, BIM, BCA]
-- 👨‍💻  Python Developer 
-- 👀 I’m interested in programming, music, sports and new technologies.
-- 🌱 I’m currently practicing AI and engaged in research oriented activities.
-- 💞️ I’m looking forward to collaborate on python and django projects
-- 📫 How to reach me .....simply throguh email: dikshant@hsm.edu.np | dikshantghimire.com.np
+<h1 align="center">Hi there! 👋 I'm Er. Dikshant Ghimire</h1>
 
-<!---
-dikshantgh/dikshantgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+🎓 Engineer | 👨‍🏫 Lecturer & Program Coordinator | 👨‍💻 Python Developer | 💡 AI Research Enthusiast  
+</p>
+
+---
+
+### 👨‍🎓 Academic Journey
+- 🎓 **Bachelor's in Computer Engineering**  
+  Nepal College of Information Technology (NCIT), Nepal  
+- 🎓 **Master's in Information Engineering & Computer Science**
+      Germany  
+
+---
+
+### 👨‍🏫 Professional Engagement
+- 📌 **Lecturer & Program Coordinator**  
+  Department of Computer Science — BE, BIM, BCA Programs  
+- 📍 Passionate about teaching Data Science, Python, and Software Engineering
+- 🛠 Conducting workshops & guiding students in research-based learning
+
+---
+
+### 👨‍💻 Technical Expertise
+- 💻 **Languages:** Python, JavaScript, HTML/CSS  
+- 🔧 **Frameworks & Tools:** Django, Flask, FastAPI, NumPy, Pandas, Git  
+- 🎯 **Focus Areas:**  
+  - AI & Machine Learning  
+  - Automation & Voice Assistants  
+  - Web App Development  
+  - Research & Data Analysis  
+
+---
+
+### 🚀 Current Goals
+- 🔬 Diving deeper into **AI/NLP and intelligent agent systems**
+- 🤝 Open to **collaborations on open-source projects** (especially in Python & Django)
+- 🧠 Working on smart assistant projects & data-driven systems
+
+---
+
+### 🎶 Beyond the Code
+- 🎵 Music enthusiast 
+- ⚽ Sports lover (football, cricket)
+- 🌍 Tech explorer & lifelong learner
+
+---
+
+### 📚 Publications
+- **"IT Job Market Trend Analysis Using Python"**  
+  *Journal of Business and Social Sciences*  
+  🔗 [Read the Paper on NepJOL](https://nepjol.info/index.php/jbss/article/view/78751)
+
+---
+
+### 📫 Get in Touch
+- 📧 Email: [dikshant@hsm.edu.np](mailto:dikshant@hsm.edu.np)  
+- 🌐 Portfolio: [www.dikshantghimire.com.np](http://www.dikshantghimire.com.np)  
+- 🔗 LinkedIn: [linkedin.com/in/dikshantgh](https://www.linkedin.com/in/dikshant-ghimire-10955b69/) 
+- 🐍 PyPI: [pypi.org/user/dikshant](https://pypi.org/user/dikshant_gh/) 
+
+---
+
+> “The best way to predict the future is to build it.” – Alan Kay
+
