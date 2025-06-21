@@ -10,7 +10,7 @@
 - 🎓 **Bachelor's in Computer Engineering**  
   Nepal College of Information Technology (NCIT), Nepal  
 - 🎓 **Master's in Information Engineering & Computer Science**
-      Germany  
+      ,Germany  
 
 ---
 
