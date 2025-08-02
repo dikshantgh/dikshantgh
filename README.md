@@ -55,7 +55,7 @@
 ---
 
 ### 📫 Get in Touch
-- 📧 Email: [dikshant@hsm.edu.np](mailto:dikshant@hsm.edu.np)  
+- 📧 Email: [dikkughimire@gmail.com](mailto:dikkughimire@gmail.com)  
 - 🌐 Portfolio: [www.dikshantghimire.com.np](http://www.dikshantghimire.com.np)  
 - 🔗 LinkedIn: [linkedin.com/in/dikshantghimire](https://www.linkedin.com/in/dikshant-ghimire-10955b69/) 
 - 🐍 PyPI: [pypi.org/user/dikshant_gh](https://pypi.org/user/dikshant_gh/) 
