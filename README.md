@@ -16,7 +16,7 @@
 
 ### 👨‍💼 Professional Engagement
 - 🏛 **Computer Officer**  
-  Nagarik Lagani Kosh (Citizen Investment Trust), Government of Nepal
+  Nagarik Lagani Kosh (Citizen Investment Trust), Government Institution
 - 💻 Working on enterprise applications, information systems, and digital transformation initiatives for public sector services.
 - 🎓 Former **Lecturer & Program Coordinator**  
   Department of Computer Science — BE, BIM & BCA Programs
