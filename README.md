@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Er. Dikshant Ghimire</h1>
 
 <p align="center">
-🎓 Engineer | 👨‍🏫 Lecturer & Program Coordinator | 👨‍💻 Python Developer | 💡 AI Research Enthusiast  
+🎓 Engineer | 🏛 Government Employee | 👨‍🏫 Lecturer | 👨‍💻 Python Developer | 💡 AI Research Enthusiast  
 </p>
 
 ---
@@ -14,11 +14,13 @@
 
 ---
 
-### 👨‍🏫 Professional Engagement
-- 📌 **Lecturer & Program Coordinator**  
-  Department of Computer Science — BE, BIM, BCA Programs  
-- 📍 Passionate about teaching Data Science, Python, and Software Engineering
-- 🛠 Conducting workshops & guiding students in research-based learning
+### 👨‍💼 Professional Engagement
+- 🏛 **Computer Officer**  
+  Nagarik Lagani Kosh (Citizen Investment Trust), Government of Nepal
+- 💻 Working on enterprise applications, information systems, and digital transformation initiatives for public sector services.
+- 🎓 Former **Lecturer & Program Coordinator**  
+  Department of Computer Science — BE, BIM & BCA Programs
+- 🚀 Passionate about Software Engineering, ASP.NET Core, Python, Data Science, System Design, and Research.
 
 ---
 
@@ -48,7 +50,7 @@
 ---
 
 ### 📚 Publications
-- **"IT Job Market Trend Analysis Using Python"**  
+- **"Assessment of Factors Influencing Customer’s Decision for Switching Internet Service Providers in Hetauda: A Data-Driven Analysis"**  
   *Journal of Business and Social Sciences*  
   🔗 [Read the Paper on NepJOL](https://nepjol.info/index.php/jbss/article/view/78751)
 
