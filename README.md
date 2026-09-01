@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Er. Dikshant Ghimire</h1>
 
 <p align="center">
-🎓 Engineer | 🏛 Government Employee | 👨‍🏫 Lecturer | 👨‍💻 Python Developer | 💡 AI Research Enthusiast  
+🎓 Computer Engineer | 💻 IT Officer | 🏛 Government Employee | 👨‍🏫 Lecturer | 👨‍💻 Python Developer | 💡 AI Research Enthusiast  
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💼 Professional Engagement
-- 🏛 **Computer Officer**  
+- 🏛 **IT Officer**  
   Nagarik Lagani Kosh (Citizen Investment Trust), Government Institution
 - 💻 Working on enterprise applications, information systems, and digital transformation initiatives for public sector services.
 - 🎓 Former **Lecturer & Program Coordinator**  
